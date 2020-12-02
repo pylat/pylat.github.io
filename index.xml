@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puya Latafat</title>
+    <link>pylat.github.io/</link>
+    <description>Recent content on Puya Latafat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="pylat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>pylat.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>pylat.github.io/contact/</guid>
+      <description>Mailing information: Puya Latafat
+KU Leuven
+Dept. Electrical Engineering (ESAT)
+Kasteelpark Arenberg 10, bus 2446
+3001 Leuven
+Belgium
+Contact information: email: puya.latafat[at]kuleuven[dot]be</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>pylat.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>pylat.github.io/about/</guid>
+      <description>I received my PhD in July 2020 jointly from KU Leuven (Belgium) and IMT Lucca (Italy), under the supervision of Prof. Panagiotis Patrinos and Prof. Alberto Bemporad. My PhD thesis can be found here.
+Currently my research focuses on nonsmooth and (non)-convex optimization problems, and their applications to machine learning and signal processing.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>pylat.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>pylat.github.io/publications/</guid>
+      <description>Recent preprints  Latafat P., Themelis A., Patrinos P., &amp;ldquo;Block-coordinate and incremental aggregated proximal gradient methods for nonsmooth nonconvex problems&amp;rdquo; arXiv:1906.10053. Latafat P., Patrinos P., &amp;ldquo;Primal-dual algorithms for multi-agent structured optimization over message-passing architectures with bounded communication delays&amp;rdquo; arXiv:1809.07199.  Contribution to books  Latafat P., Patrinos P., &amp;ldquo;Primal-Dual Proximal Algorithms for Structured Convex Optimization: A Unifying Framework&amp;rdquo;, in Chapter 5 of Large-Scale and Distributed Optimization, (Giselsson P., and Rantzer A.</description>
+    </item>
+    
+    <item>
+      <title>Related software</title>
+      <link>pylat.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>pylat.github.io/software/</guid>
+      <description>  A solver for large scale finite sum minimization problems: CIAOAlgorithms.jl. See the github page for more details.
+  Primal-dual algorithms presented in here and here have been implemented as part of the generic Julia solver ProximalAlgorithms.jl.
+  See also the github repository KUL-ForBES for other related packages developed in our group.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
