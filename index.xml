@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puya Latafat</title>
+    <link>https://pylat.github.io/</link>
+    <description>Recent content on Puya Latafat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://pylat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://pylat.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pylat.github.io/contact/</guid>
+      <description>Mailing information: Puya Latafat
+KU Leuven
+Dept. Electrical Engineering (ESAT)
+Kasteelpark Arenberg 10, bus 2446
+3001 Leuven
+Belgium
+Contact information: email: puya.latafat[at]kuleuven[dot]be</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://pylat.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pylat.github.io/about/</guid>
+      <description>I received my PhD in July 2020 jointly from KU Leuven (Belgium) and IMT Lucca (Italy), under the supervision of Prof. Panagiotis Patrinos and Prof. Alberto Bemporad. My PhD thesis can be found here.
+Currently my research focuses on nonsmooth and (non)-convex optimization problems, and their applications to machine learning and signal processing.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://pylat.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pylat.github.io/publications/</guid>
+      <description>Journal papers  Latafat P., Themelis A., Patrinos P., &amp;ldquo;Block-coordinate and incremental aggregated proximal gradient methods for nonsmooth nonconvex problems&amp;rdquo; Mathematical Programming (Accepted for publication), 2020. Latafat P., Freris N. M., Patrinos P., &amp;ldquo;A New Randomized Block-Coordinate Primal-Dual Proximal Algorithm for Distributed Optimization&amp;rdquo;, IEEE Transactions on Automatic Control, vol. 64, no. 10, Oct. 2019, pp. 4050-4065. Latafat P., Patrinos P., &amp;ldquo;Asymmetric forward-backward-adjoint splitting for solving monotone inclusions involving three operators&amp;rdquo;, Computational Optimization and Applications, vol.</description>
+    </item>
+    
+    <item>
+      <title>Related software</title>
+      <link>https://pylat.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pylat.github.io/software/</guid>
+      <description>CIAOAlgorithms.jl: Julia implementation of several popular stochastic and incremental methods for finite sum minimization problems, including our extention of the Finito/MISO/DIAG algorithm for fully nonconvex problems based on the results presented here.
+  Primal-dual algorithms presented in here and here have been implemented as part of the generic Julia solver ProximalAlgorithms.jl.
+  See also the github repository KUL-ForBES for other related packages developed in our group.</description>
+    </item>
+    
+  </channel>
+</rss>
