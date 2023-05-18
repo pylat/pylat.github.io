@@ -45,7 +45,7 @@ Contact information: email: puya.latafat[at]kuleuven[dot]be</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pylat.github.io/software/</guid>
-      <description>adaptive-proximal-algorithms: Julia implementation of adaptive proxima gradient method (adaPGM) and adaptive prial-dual method (adaPDM) based on the results here.
+      <description>adaptive-proximal-algorithms: Julia implementation of adaptive proxima gradient method (adaPGM) and adaptive primal-dual method (adaPDM) based on the results here.
   CIAOAlgorithms.jl: Julia implementation of several popular stochastic and incremental methods for finite sum minimization problems, including our extention of the Finito/MISO/DIAG algorithm for fully nonconvex problems based on the results presented here.
   Primal-dual algorithms presented in here and here have been implemented as part of the generic Julia solver ProximalAlgorithms.</description>
     </item>
