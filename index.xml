@@ -27,7 +27,7 @@ Contact information: email: puya.latafat[at]kuleuven[dot]be</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pylat.github.io/about/</guid>
-      <description>I am currently a postdoc at KU Leuven (Belgium). I received my PhD in July 2020 jointly from KU Leuven (Belgium) and IMT Lucca (Italy). My PhD advisors were Prof. Panagiotis Patrinos and Prof. Alberto Bemporad. My PhD thesis can be found here. Currently, my research focuses on nonsmooth and nonconvex optimization, and its applications in machine learning and control.</description>
+      <description>I am currently a postdoc at KU Leuven (Belgium). My research focuses on nonsmooth and nonconvex optimization with applications in machine learning, and systems theory. I received my PhD in July 2020 jointly from KU Leuven (Belgium) and IMT Lucca (Italy). My PhD advisors were Prof. Panagiotis Patrinos and Prof. Alberto Bemporad.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ Contact information: email: puya.latafat[at]kuleuven[dot]be</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pylat.github.io/publications/</guid>
-      <description>Preprints  Latafat P., Themelis A., Villa S., Patrinos P., &amp;ldquo;AdaBiM: An adaptive proximal gradient method for structured convex bilevel optimization&amp;rdquo; arXiv:2305.03559, 2023 Latafat P., Themelis A., Stella L., Patrinos P., &amp;ldquo;Adaptive proximal algorithms for convex optimization under local Lipschitz continuity of the gradient&amp;rdquo; arXiv:2301.04431, 2023 Evens B., Pas P., Latafat P., Patrinos P., &amp;ldquo;Convergence of proximal point algorithm and Douglas&amp;ndash;Rachford Splitting in the Absence of Monotonicity&amp;rdquo; arXiv:2305.03605, 2023 Behmandpoor P.</description>
+      <description>Preprints  Evens B., Latafat P., Patrinos P., &amp;ldquo;Convergence of the Chambolle&amp;ndash;Pock Algorithm in the Absence of Monotonicity&amp;rdquo; arXiv:2312.06540, 2024 Latafat P., Themelis A., Villa S., Patrinos P., &amp;ldquo;On the convergence of proximal gradient methods for convex simple bilevel optimization&amp;rdquo; arXiv:2305.03559, 2023 Evens B., Pas P., Latafat P., Patrinos P., &amp;ldquo;Convergence of proximal point algorithm and Douglas&amp;ndash;Rachford Splitting in the Absence of Monotonicity&amp;rdquo; arXiv:2305.03605, 2023  Journal papers  Latafat P.</description>
     </item>
     
     <item>
