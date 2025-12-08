@@ -5,49 +5,35 @@
     <link>https://pylat.github.io/</link>
     <description>Recent content on Puya Latafat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://pylat.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://pylat.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pylat.github.io/contact/</guid>
-      <description>Mailing information: Puya Latafat
-IMT School for Advanced Studies Lucca\
-Piazza S. Francesco 19
-55100 Lucca
-Italy
-Contact information: email: puya.latafat[at]kuleuven[dot]be</description>
-    </item>
-    
+    <language>en</language>
+    <atom:link href="https://pylat.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://pylat.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://pylat.github.io/about/</guid>
       <description>I am currently a postdoc at KU Leuven (Belgium). My research focuses on nonsmooth and nonconvex optimization with applications in machine learning, and systems theory. I received my PhD in July 2020 jointly from KU Leuven (Belgium) and IMT Lucca (Italy). My PhD advisors were Prof. Panagiotis Patrinos and Prof. Alberto Bemporad.</description>
     </item>
-    
+    <item>
+      <title>Contact</title>
+      <link>https://pylat.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pylat.github.io/contact/</guid>
+      <description>Contact Here’s how you can reach me:&#xA;🐙 GitHub: github.com/pylat 🔬 ResearchGate: Profile ✉️ Email: puya.latafat@imtlucca.it 📬 Telegram: @Puya </description>
+    </item>
     <item>
       <title>Publications</title>
       <link>https://pylat.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://pylat.github.io/publications/</guid>
-      <description>Preprints  Upadhyaya M., Latafat P., Giselsson P., &amp;ldquo;A Lyapunov analysis of Korpelevich&amp;rsquo;s extragradient method with fast and flexible extensions&amp;rdquo; arXiv:2502.00119, 2025 Evens B., Latafat P., Patrinos P., &amp;ldquo;Convergence of the Chambolle&amp;ndash;Pock Algorithm in the Absence of Monotonicity&amp;rdquo; arXiv:2312.06540, 2024  Journal papers  Latafat P., Themelis A., Stella L., Patrinos P., &amp;ldquo;Adaptive proximal algorithms for convex optimization under local Lipschitz continuity of the gradient&amp;rdquo; Mathematical Programming, 2024 Evens B., Pas P.</description>
+      <description>Preprints Upadhyaya M., Latafat P., Giselsson P., &amp;ldquo;A Lyapunov analysis of Korpelevich&amp;rsquo;s extragradient method with fast and flexible extensions&amp;rdquo; arXiv:2502.00119, 2025 Ou, H., Latafat, P., Themelis, A. (2025). &amp;ldquo;Linesearch-free adaptive Bregman proximal gradient for convex minimization without relative smoothness&amp;rdquo; arXiv:2508.01353, 2025 Evens B., Latafat P., Patrinos P., &amp;ldquo;Spingarn&amp;rsquo;s Method and Progressive Decoupling Beyond Elicitable Monotonicity&amp;rdquo; arXiv:2504.00836, 2025 Adeoye, A. D., Latafat, P., Bemporad, A., &amp;ldquo;A proximal augmented Lagrangian method for nonconvex optimization with equality and inequality constraints&amp;rdquo; arXiv:2509.</description>
     </item>
-    
     <item>
       <title>Related software</title>
       <link>https://pylat.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://pylat.github.io/software/</guid>
-      <description>adaptive-proximal-algorithms: Julia implementation of adaptive proxima gradient method (adaPGM) and adaptive primal-dual method (adaPDM) based on the results here.
-  CIAOAlgorithms.jl: Julia implementation of several popular stochastic and incremental methods for finite sum minimization problems, including our extention of the Finito/MISO/DIAG algorithm for fully nonconvex problems based on the results presented here.
-  Primal-dual algorithms presented in here and here have been implemented as part of the generic Julia solver ProximalAlgorithms.</description>
+      <description>adaptive-proximal-algorithms: Julia implementation of adaptive proxima gradient method (adaPGM) and adaptive primal-dual method (adaPDM) based on the results here.&#xA;CIAOAlgorithms.jl: Julia implementation of several popular stochastic and incremental methods for finite sum minimization problems, including our extention of the Finito/MISO/DIAG algorithm for fully nonconvex problems based on the results presented here.&#xA;Primal-dual algorithms presented in here and here have been implemented as part of the generic Julia solver ProximalAlgorithms.jl.</description>
     </item>
-    
   </channel>
 </rss>
